@@ -17,7 +17,6 @@ public class Main extends HttpServlet {
     } else {
       showHome(req,resp);
     }
-
   }
 
   private void showHome(HttpServletRequest req, HttpServletResponse resp)
