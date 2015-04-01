@@ -5,7 +5,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 
-public class test {
+public class myDummyTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
