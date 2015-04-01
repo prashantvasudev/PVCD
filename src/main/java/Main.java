@@ -21,7 +21,7 @@ public class Main extends HttpServlet {
 
   private void showHome(HttpServletRequest req, HttpServletResponse resp)
       throws ServletException, IOException {
-    resp.getWriter().print("Hello from Java! CD version 2");
+    resp.getWriter().print("Hello from Java! CD version 4 do it");
   }
 
   private void showDatabase(HttpServletRequest req, HttpServletResponse resp)
